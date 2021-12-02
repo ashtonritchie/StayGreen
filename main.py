@@ -1,7 +1,8 @@
 import pyautogui as gui
 import streamlit as st
-import time
-
+import os
+os.environ['DISPLAY'] = ':0'
+os.environ['XAUTHORITY'] = '/run/user/1000/gdm/Xauthority'
 
 st.set_page_config(page_title="StayGreen", layout='wide')
 
