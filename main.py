@@ -1,6 +1,5 @@
 import pyautogui as gui
 import streamlit as st
-import mouseinfo
 
 st.set_page_config(page_title="StayGreen", layout='wide')
 
