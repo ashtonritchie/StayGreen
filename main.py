@@ -26,6 +26,7 @@ with col1:
         click "Resume Work." Enjoy!
              ''')
 import pyautogui as gui
+import mouseinfo
 
 speed_down = -100
 sleeptime = 1
