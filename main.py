@@ -1,4 +1,4 @@
-import pyautogui as gui
+
 import streamlit as st
 
 
