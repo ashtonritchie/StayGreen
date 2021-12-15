@@ -25,6 +25,7 @@ with col1:
         Your online status will appear active to anyone who my be watching. When it's time to return to work, 
         click "Resume Work." Enjoy!
              ''')
+import pyautogui as gui
 
 speed_down = -100
 sleeptime = 1
